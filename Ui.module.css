@@ -1,0 +1,51 @@
+.container {
+    text-align: center;
+    width: 700px;
+    height: 120px;
+    margin: 0 auto;
+    border: 2px solid rgb(253, 90, 90);
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(36, 34, 34);
+    color: #fff;
+    position: relative;
+}
+
+.container h3 {
+    font-size: 1.7rem;
+    margin-right: 15px;
+}
+
+.container div {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+.container span {
+    background-color: rgb(255, 238, 2);
+    padding: 8px;
+    color: #000;
+    border-radius: 5px;
+}
+
+.container h1 {
+    font-size: 3rem;
+}
+
+.container img {
+    width: 80px;
+    position: absolute;
+    top: -10px;
+    right: 15px;
+}
+
+.container p {
+    position: absolute;
+    top: 60px;
+    right: 30px;
+    font-size: 1.5rem;
+
+}
